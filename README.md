@@ -29,12 +29,6 @@ electronics.
 | Digital Audio Equalizer on FPGA | 160-tap FIR, PWM DAC | Published AADECA 2023 |
 | Real-Time Pitch Shifter | STM32, 44.1 kHz, 2 ms latency | Completed 2023 |
 
-## Pinned repos
-
-- [`modbus-driver-arm`](link) — Modbus RTU/TCP driver for ARM Cortex-M
-- [`motor-control-lib`](link) — Multi-axis motor control library (PID, ramps, encoders)
-- [`fpga-dsp-examples`](link) — FIR filters, PWM DAC, decimation in Verilog
-
 ## Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tognifrancisco-blue?logo=linkedin)](https://linkedin.com/in/tognifrancisco)
