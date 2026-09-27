@@ -1,6 +1,6 @@
 # Francisco Togni
 
-**Electrical Engineer · FPGA · DSP · Embedded R&D**
+**Electrical Engineer · FPGA · DSP · Embedded R+D**
 
 I design and implement low-latency digital systems, from RTL and firmware 
 to hardware validation. Focus on audio DSP, real-time systems, and power 
