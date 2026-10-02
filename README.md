@@ -1,6 +1,6 @@
 # Francisco Togni
 
-**Electrical Engineer · FPGA & DSP · Embedded R+D**
+**Electrical Engineer · FPGA · DSP · Embedded R&D**
 
 I work on the conception and validation of real-time digital and analog 
 processing systems — from algorithmic modeling to hardware implementation, 
