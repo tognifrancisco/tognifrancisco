@@ -12,7 +12,7 @@ including parallelized architectures and mixed-signal integration.
 
 - **FPGA / HDL** — RTL design, timing analysis, HDL/IP integration, FPGA-based DSP
 - **Embedded firmware** — ARM Cortex-M, TI C2000 (TMS320F280049), STM32, PIC
-- **DSP** — FIR filter banks, adaptive decimation, Volterra kernels, PCA, real-time convolution
+- **DSP** — FIR filter banks, systolic structures, Volterra kernels, PCA, real-time audio processing
 - **Motor control & power electronics** — multi-axis control, fault detection, sensor telemetry
 - **Industrial** — Modbus RTU/TCP, PLC/HMI, supervisory control, system-level validation
 
@@ -24,9 +24,9 @@ including parallelized architectures and mixed-signal integration.
 |---|---|---|
 | [Low-Latency Fault Detection for Power Inverters](https://tognifrancisco.github.io/projects/fpga-fault-detection.html) | FPGA · Verilog · DSP | Published CAE 2026 |
 | [Professional Ball Launcher (client product)](https://tognifrancisco.github.io/projects/ball-launcher.html) | TI C2000 + STM32 · Modbus · HMI | Delivered 2026 |
-| [Nonlinear System ID via Volterra Kernels + PCA](https://tognifrancisco.github.io/projects/volterra-pca.html) | STM32 + FPGA · real-time convolution | Validation phase |
-| [Digital Audio Equalizer on FPGA](https://tognifrancisco.github.io/projects/audio-equalizer.html) | 160-tap FIR · PWM DAC | Published AADECA 2023 |
-| [Real-Time Pitch Shifter](https://tognifrancisco.github.io/projects/pitch-shifter.html) | STM32 · 44.1 kHz · 2 ms latency | Completed 2023 |
+| [Nonlinear System ID via Volterra Kernels + PCA](https://tognifrancisco.github.io/projects/volterra-pca.html) | MATLAB · DSP · PCA | Preprint · validation phase |
+| [Digital Audio Equalizer on FPGA](https://tognifrancisco.github.io/projects/audio-equalizer.html) | 5-band FIR (order 170) · PWM DAC | Published AADECA 2023 |
+| [Time-Domain Pitch Shifting](https://tognifrancisco.github.io/projects/pitch-shifter.html) | ARM Cortex-M4F · MATLAB | Implemented 2023 · preprint 2025 |
 
 ---
 
@@ -46,4 +46,4 @@ including parallelized architectures and mixed-signal integration.
 
 ---
 
-<sub>FPGA-based real-time DSP · audio synthesis · embedded ML · motion control · power electronics</sub>
+<sub>FPGA-based real-time DSP · audio processing · motion control · power electronics</sub>
